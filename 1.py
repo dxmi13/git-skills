@@ -1,1 +1,2 @@
-print('Hello')
+"fijdjfdjdfdf"
+"nie wiem"
