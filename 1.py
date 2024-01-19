@@ -1,2 +1,3 @@
-"fijdjfdjdfdf"
-"nie wiem"
+print('coscososdoods')
+print('Hel'+'aaaaaaaaaaaaaaaaaaaaaa'+'lo')
+print('oooooooooooooooo')
